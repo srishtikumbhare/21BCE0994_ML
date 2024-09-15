@@ -3,3 +3,4 @@ uvivorn
 mysql
 sqlalchemy
 request
+redis
