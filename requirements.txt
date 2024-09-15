@@ -1,0 +1,5 @@
+fastapi
+uvivorn
+mysql
+sqlalchemy
+request
