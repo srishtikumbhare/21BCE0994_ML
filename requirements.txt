@@ -4,3 +4,5 @@ mysql
 sqlalchemy
 request
 redis
+beautifulsoup4==4.12.2
+mysql-connector-python==8.0.34
